@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Bu dosya, Web projenizin yayımlama/paket işlemi tarafından kullanılıyor. MSBuild dosyasını düzenleyerek
+bu işlemin davranışını düzenleyebilirsiniz. Bununla ilgili daha fazla bilgi edinmek için https://go.microsoft.com/fwlink/?LinkID=208121 adresini ziyaret edin. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAD1EmUAp8IUGk6N6xt+hJjwAAAAACAAAAAAAQZgAAAAEAACAAAACdzf1twEQnLjNPEcg+RHJTiiBmp6FlBeRxqZhUaPEArwAAAAAOgAAAAAIAACAAAADyjhHK67W2In9cjWZehWGXgzZwN3qmYG7CmZGEsvz22yAAAADwPDYfn0e8rJo6qkYNRB2hVxnP75mEynOpBDpZX3mnuEAAAACAeKZa7gMTxza9WUNsbphRI98F4ABZBAolzRAXvTb7C/dJ45ipbHjUraKvh+V5zHW2GjA2/X4L3y0BqQopCOFT</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.ersedat.tk/www.ersedat.tk</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="adafilm.aspx">
+      <publishTime>07/21/2017 12:55:51</publishTime>
+    </File>
+    <File Include="App_Data/dbo.haberyorum.sql">
+      <publishTime>05/07/2017 16:28:10</publishTime>
+    </File>
+    <File Include="App_Data/dbo.iletisim.sql">
+      <publishTime>05/07/2017 13:36:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 03:10:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>08/07/2017 11:20:25</publishTime>
+    </File>
+    <File Include="cikisyap.aspx">
+      <publishTime>07/13/2017 12:09:24</publishTime>
+    </File>
+    <File Include="dogrulama.aspx">
+      <publishTime>07/21/2017 12:55:52</publishTime>
+    </File>
+    <File Include="Hakkimda.aspx">
+      <publishTime>05/10/2017 14:03:35</publishTime>
+    </File>
+    <File Include="Hakkimda2.aspx">
+      <publishTime>05/10/2017 14:06:36</publishTime>
+    </File>
+    <File Include="images/a2.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/ada-filmi.jpg">
+      <publishTime>05/05/2017 12:29:46</publishTime>
+    </File>
+    <File Include="images/ada2.jpg">
+      <publishTime>05/05/2017 15:17:22</publishTime>
+    </File>
+    <File Include="images/arr_orange.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/arr_white.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/body_bg.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/body_bot.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/dots.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/footerline.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/footer_bg.gif">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/header_1.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/header_2.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/mac.jpg">
+      <publishTime>05/05/2017 16:06:34</publishTime>
+    </File>
+    <File Include="images/nav_bot.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/nav_left.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/news_bg.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/p2.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/page_bg.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/pic_1.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/pic_3.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="images/support.jpg">
+      <publishTime>05/04/2017 20:50:14</publishTime>
+    </File>
+    <File Include="kullanicigiris.aspx">
+      <publishTime>07/25/2017 12:26:43</publishTime>
+    </File>
+    <File Include="macsayfasi.aspx">
+      <publishTime>07/21/2017 12:55:51</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/04/2017 20:48:31</publishTime>
+    </File>
+    <File Include="sifresifirla.aspx">
+      <publishTime>07/28/2017 11:56:33</publishTime>
+    </File>
+    <File Include="sifreunuttum.aspx">
+      <publishTime>07/25/2017 12:29:59</publishTime>
+    </File>
+    <File Include="StyleSheet2.css">
+      <publishTime>07/20/2017 11:11:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/07/2017 11:20:27</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>08/03/2017 15:19:51</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>07/21/2017 12:55:52</publishTime>
+    </File>
+    <File Include="yazilar.aspx">
+      <publishTime>07/21/2017 12:55:51</publishTime>
+    </File>
+    <File Include="yenisifreolustur.aspx">
+      <publishTime>07/28/2017 11:56:33</publishTime>
+    </File>
+    <File Include="üyeol.aspx">
+      <publishTime>07/21/2017 12:55:52</publishTime>
+    </File>
+    <File Include="İletisim.aspx">
+      <publishTime>07/21/2017 12:55:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
